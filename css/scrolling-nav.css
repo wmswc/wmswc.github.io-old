@@ -223,8 +223,9 @@ of those sections to manage the look and feel of the site. */
 
 .mentorship-section a{
     text-decoration: none;
-
+    color:white;
 }
+
 .team-section {
     height:140%;
     padding-top: 50px;
