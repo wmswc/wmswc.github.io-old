@@ -31,6 +31,7 @@ html {
     }
 }
 
+
 p{
     display: block;
 }
@@ -220,6 +221,10 @@ of those sections to manage the look and feel of the site. */
     font-family:'Playfair Display', serif;
 }
 
+.mentorship-section a{
+    text-decoration: none;
+
+}
 .team-section {
     height:140%;
     padding-top: 50px;
