@@ -226,7 +226,7 @@ of those sections to manage the look and feel of the site. */
     color:white;
 }
 
-.mentorship-section h1{
+.mentorship-section h2{
     display: inline-block;
     position:relative;
     font-family:'Playfair', serif;
