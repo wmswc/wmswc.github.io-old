@@ -231,6 +231,8 @@ of those sections to manage the look and feel of the site. */
     position:relative;
     font-family:'Playfair', serif;
     padding-left: 25px;
+    text-transform: uppercase;
+    font-size:22px;
 }
 
 .team-section {
