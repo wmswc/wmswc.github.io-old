@@ -229,6 +229,8 @@ of those sections to manage the look and feel of the site. */
 .mentorship-section h2{
     display: inline-block;
     position:relative;
+    font-family:'Playfair', serif;
+    padding-left: 25px;
 }
 
 .team-section {
