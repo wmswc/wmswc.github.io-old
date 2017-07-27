@@ -226,6 +226,11 @@ of those sections to manage the look and feel of the site. */
     color:white;
 }
 
+.mentorship-section h2{
+    display: inline-block;
+    position:relative;
+}
+
 .team-section {
     height:140%;
     padding-top: 50px;
