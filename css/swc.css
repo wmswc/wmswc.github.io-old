@@ -221,7 +221,7 @@ of those sections to manage the look and feel of the site. */
     font-family:'Playfair Display', serif;
 }
 
-.mentorship-section a:link{
+.mentorship-section a{
     text-decoration: none;
     color:white;
 }
@@ -232,8 +232,9 @@ of those sections to manage the look and feel of the site. */
 }
 
 .contactcontainer{
-    margin-left: 325px;
+    margin-left: 300px;
     padding-left: 150px;
+    padding-top: 15px;
     max-width: 1140px;
     position: relative;
     color:white;
