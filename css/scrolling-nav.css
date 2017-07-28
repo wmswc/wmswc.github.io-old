@@ -237,7 +237,7 @@ of those sections to manage the look and feel of the site. */
     max-width: 1140px;
     position: relative;
     color:white;
-    display:block;
+    display:inline-block;
     text-align:left;
 }
 
