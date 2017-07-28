@@ -221,9 +221,24 @@ of those sections to manage the look and feel of the site. */
     font-family:'Playfair Display', serif;
 }
 
-.mentorship-section a{
+.mentorship-section a:link{
     text-decoration: none;
     color:white;
+}
+
+.mentorship-section a:hover{
+    color:#10bbf1;
+
+}
+
+.contactcontainer{
+    margin-left: 325px;
+    padding-left: 150px;
+    max-width: 1140px;
+    position: relative;
+    color:white;
+    display:block;
+    text-align:left;
 }
 
 .mentorship-section h2{
@@ -232,7 +247,7 @@ of those sections to manage the look and feel of the site. */
     font-family:'Playfair Display', serif;
     padding-left: 30px;
     text-transform: uppercase;
-    font-size:35px;
+    font-size:30px;
     /*text-align: left;*/
 
 }
@@ -246,4 +261,7 @@ of those sections to manage the look and feel of the site. */
     background-color: #CEE7E6;
     color: #15070F;
     font-family:'Playfair Display', serif;
+}
+.footer.container{
+    margin: 25px;
 }
