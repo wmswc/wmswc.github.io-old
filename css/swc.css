@@ -226,21 +226,6 @@ of those sections to manage the look and feel of the site. */
     color:white;
 }
 
-.mentorship-section a:hover{
-    color:#10bbf1;
-
-}
-
-.contactcontainer{
-    margin-left: 325px;
-    padding-left: 150px;
-    max-width: 1140px;
-    position: relative;
-    color:white;
-    display:block;
-    text-align:left;
-}
-
 .mentorship-section h2{
     display: inline-block;
     position:relative;
@@ -261,7 +246,4 @@ of those sections to manage the look and feel of the site. */
     background-color: #CEE7E6;
     color: #15070F;
     font-family:'Playfair Display', serif;
-}
-.footer.container{
-    margin: 25px;
 }
