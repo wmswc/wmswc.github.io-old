@@ -221,7 +221,7 @@ of those sections to manage the look and feel of the site. */
     font-family:'Playfair Display', serif;
 }
 
-.mentorship-section a{
+.mentorship-section a:link{
     text-decoration: none;
     color:white;
 }
