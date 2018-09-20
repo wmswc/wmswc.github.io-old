@@ -178,13 +178,13 @@ of those sections to manage the look and feel of the site. */
     position: relative;
     color:white;
     display:block;
-    font-size:25px;
+    font-size:2vw;
     font-family:'Raleway', sans-serif;
 }
 
 .event-section {
     height: 100%;
-   padding-top: 50px;
+    padding-top: 50px;
     padding-bottom:60px;
     text-align: center;
     color: white;
@@ -198,7 +198,7 @@ of those sections to manage the look and feel of the site. */
 
 .event-section > p {
     font-family: 'Raleway', sans-serif;
-    font-size: 15px;
+    font-size: 2vw;
     text-align: center;
     margin-bottom: 15px;
 }
@@ -248,7 +248,7 @@ of those sections to manage the look and feel of the site. */
     font-family:'Playfair Display', serif;
     padding-left: 30px;
     text-transform: uppercase;
-    font-size:30px;
+    font-size:4vw;
     /*text-align: left;*/
 
 }
